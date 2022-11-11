@@ -1,0 +1,9 @@
+@import url("add-page-style-header.css");
+@import url("add-page-style-mainbox.css");
+@import url("add-page-style-footer.css");
+
+body{
+    background-color: beige;
+    margin-left: 35%;
+    margin-right: 35%;
+}

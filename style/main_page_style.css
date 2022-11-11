@@ -1,0 +1,11 @@
+@import url("main-page-style-header.css");
+@import url("main-page-style-mainbox.css");
+@import url("main-page-style-footer.css");
+
+body{
+    margin-left: 35%;
+    margin-right: 35%;
+    background-color: beige;
+    margin-bottom: 10px;
+}
+
