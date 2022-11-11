@@ -1,0 +1,26 @@
+.add-page-header{
+    height: 12%;
+    width: 30%;
+    background-color: aliceblue;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    position: fixed;
+    top: 0;
+}
+
+.img-page-2-header{
+    height: 30px;
+    width: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.add-contact-text{
+    font-family: Arial;
+    font-size: 20px;
+}

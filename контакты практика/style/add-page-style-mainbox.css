@@ -1,0 +1,46 @@
+.add-page-main-box{
+    margin-top: 20%;
+}
+
+.add-page-form-container{
+    padding-top: 1%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.add-page-entry-field{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.add-page-entry-text{
+    font-family: Arial;
+    font-size: 15px;
+    margin: 2px;
+}
+
+.add-page-entry-box{
+    width: 100%;
+    height: 40px;
+    background-color: aliceblue;
+    font-family: Arial;
+    font-size: 20px;
+    border-width: 1px;
+}
+
+.add-page-entry-favorites{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
+
+.add-page-checkbox{
+    width: 20px;
+    height: auto;
+    border-width: 1px;
+    border-style: solid;
+    background-color: aliceblue;
+}
